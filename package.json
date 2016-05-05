@@ -1,0 +1,12 @@
+{
+  "name": "mean-brainstorm-app",
+  "version": "0.5.0",
+  "description": "A simple brainstorming discussion app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  },
+  "author": "Mollie Knute",
+  "license": "MIT"
+}
